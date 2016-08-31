@@ -1,0 +1,981 @@
+
+
+body {
+	margin: auto;
+	height: 5400px;
+	width: 1080px;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	background-color: pink;
+}
+
+.container {
+	margin: 0 auto;
+
+}
+
+div ul li a {
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover  {
+	border:none;
+}
+
+
+.logo {
+	position: relative;
+	float: left;
+	padding: 5px 0 5px 0;
+}
+
+.social {
+	position: relative;
+	display: inline-block;
+	margin-top: 5px;
+	left: 10%;
+}
+
+.wrapper {
+	height: 90px;
+	width: 200px;
+	position: relative;
+	padding:0 5px 0 5px;
+	float: right;
+	margin: 0;
+}
+
+.number {
+	margin: 3px;
+	width: 100px;
+	right: -200px;
+	color: #0b9cef;
+	font-size: 14px;
+	text-align: middle;
+}
+
+.email {
+	color: #153056;
+	font-size: 16px;
+	float: right;
+}
+
+.account {
+	position: relative;
+	float: right;
+}
+
+.user-login {
+	position: relative;
+	float: right;
+	padding:0 5px;
+}
+
+.header {
+	padding-bottom: 0;
+	height: 300px;
+	padding-top: 30px;
+}
+
+.navbar{
+	text-transform: uppercase;
+	padding:3px 5px 0 5px;
+	position: relative;
+	display: inline-block;
+	font-size: 12px;
+	float: right;
+}
+
+.nav {
+	padding-right: 10px;
+	display: inline-block;
+	color: black;
+}
+
+.start-trading {
+	margin-left: 200px;
+	position: relative;
+	top:-210px;
+	float: left;
+	right: 00px;
+	background-color: #0b9cef;
+	color: #000;
+	text-transform: uppercase;
+	height: 50px;
+	width: 200px;
+	border-radius: 2px;
+	border-bottom: 5px solid #007fc7;
+	opacity: .9;
+}
+
+.trading {
+	position: relative;
+	color: white;
+}
+
+.trading-button {
+	color: white;
+	font-size: 22px;
+}
+
+.header-p{
+	position: relative;
+	color: black;
+	top: -175px;
+	left: 1100px;
+}
+
+.chat {
+	position: relative;
+	float: right;
+	top: -260px;
+	margin: none;
+}
+
+h2 {
+	font-size: 16px;
+	color: white;
+	padding: 0 5px;
+	text-align: center;
+}
+
+h1 {
+	position: relative;
+	top: -215px;
+	margin-left: 200px;
+	font-size: 20px;
+	color: white;
+}
+
+.stock {
+	position: relative;
+	top: -10px;
+}
+
+.form-containter {
+	position: relative;
+	top: -275px;
+	margin-right: 100px;
+	float: right;
+	background-color: #3b5a7e;
+	width: 225px;
+	height: 150px;
+	color: white;
+	font-size: 14px;
+	opacity: .85;
+}
+
+input, select, textarea{
+    color: white;
+    background-color: #8391a6;
+    border: none;
+    opacity: .7;
+}
+
+input, select{
+	margin: 5px;
+	height: 20px;
+}
+
+input[type="submit"] {
+	background-color: #0b9cef;
+	width: 200px;
+	opacity: 100;
+	padding-bottom: 15px;
+}
+
+.navbar ul li a:hover {
+	border-bottom: 7px solid #099ff5;
+}
+
+input {
+	opacity: 100;
+}
+	
+.sign-up {
+	height: 450px;
+	width: 1080px;
+}
+
+.form-paragraphs-1 {
+	margin: auto;
+	top: 50px;
+	position: relative;
+	height: 230px;
+	width: 950px;
+	font-size: 27px;
+	color: #2d4463;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.form-paragraphs-2 {
+	margin: auto;
+	top: -125px;
+	position: relative;
+	height: 100px;
+	width: 950px;
+	font-size: 18px;
+	color: #7e8081;
+	font-weight: bold;
+	padding-top: 10px;
+	text-align: center;
+}
+
+.form-paragraphs-3 {
+	margin: auto;
+	top: -180px;
+	position: relative;
+	height: 100px;
+	width: 950px;
+	font-size: 16px;
+	color: gray;
+	text-align: center;
+}
+
+td {
+	margin: auto; 
+	font-size: 11px;
+	width: 200px;
+	text-transform: uppercase;
+}
+
+.make-account {
+	margin: auto; 
+
+}
+
+.form-input {
+	position: relative;
+	width: 300px;
+	margin: 0;
+	height: 35px;
+	background-color: #dddddd;
+	font-size: 15px;
+
+}
+
+.submit {
+	position: absolute;
+	margin-bottom: 10px;
+	background-color: #435772;
+	height: 35px;
+	width: 225px;
+	font-size: 18px;
+	border-bottom: 4px solid black; 
+	margin-bottom: 15px;
+}
+
+input[type="button"] {
+	position: relative;
+	background-color: #435772;
+	float: none;
+	height: 50px;
+	width: 225px;
+	font-size: 18px;
+	border-bottom: 4px solid black; 
+}
+
+table {
+	margin-top: 25px;
+	position: relative;
+	vertical-align: middle;
+	top: -200px;
+	text-transform: capitalize;
+	color: #3a4f6c;
+}
+
+h5 {
+    padding-left: 80px;
+    text-indent:-105px;
+    padding-right: 105px;
+    color: #636364;
+	font-family: sans-serif;
+	font-size: 11px;
+}
+
+.button {
+	margin: auto;
+	opacity: .7;
+}
+
+.form1 {
+	text-align: center;
+}
+
+.country {
+	width: 300px;
+	height: 40px;
+}
+
+.dropdown {
+width: 300px;
+height: 40px;
+}
+
+.open-account {
+	margin: auto;
+	margin-top: 20px;
+}
+
+.form {
+	margin: auto;
+}
+
+.container-form-1 {
+	height: 400px;
+}
+
+.platform {
+	height: 1200px;
+	width: 100%;
+	background-color: #ededee;
+	margin-top: 5px;
+	line-height: 1.5;
+}
+.our-platforms {
+	color: #435772;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+.platform-intro {
+	width: 800px;
+	font-size: 13px;
+	line-height: 1.5;
+	color: #757576;
+	margin:auto;
+	text-indent: -30px;
+}
+
+.quick-trade {
+	color: #464646;
+	height: 40px;
+	width: 400px;
+	font-size: 20px;
+	float: left;
+	padding: 45px 0 0 5px; 
+}
+
+.touch {
+	color: #464646;
+	height: 40px;
+	width: 400px;
+	font-size: 20px;
+	float: left;
+	padding: 20px 0 0 5px; 
+}
+
+.quick-trade-info {
+	width: 450px;
+	color: #686868;
+	height: 260px;
+	margin-left:80px;
+	font-size: 15px;
+	float:left;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-bottom: 25px;
+}
+
+.longterm-info-right {
+	width: 450px;
+	color: #686868;
+	height: 260px;
+	float:right;
+	margin-top: 5px;
+	margin-bottom: 0;
+	font-size: 15px;
+
+}
+
+.touch-info {
+	width: 450px;
+	color: #686868;
+	float:right;
+	font-size: 15px;
+}
+
+.img {
+	margin-left: 90px;
+	float: left;
+	height: 50px;
+	margin-top:30px;
+}
+}
+
+.img-left {
+	float: left;
+	height: 50px;
+	margin-top:30px;
+	margin-left:70px;
+}
+
+
+p.quick-trade {
+	display: block;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+.macbook-right {
+	margin:45px 0 0 0;
+
+}
+
+.macbook-left {
+	padding-left: 50px;
+	padding-bottom: 10px;
+	margin-top: -40px;
+}
+
+.quick-trade-right {
+	padding-top: 30px;
+	margin-top: 20px;
+}
+
+.quick-trade-right1 {
+	padding-top: 30px;
+	margin-top: 20px;
+}
+
+.img-right {
+	float: right;
+	height: 50px;
+	margin-top:30px;
+	margin-left:70px;
+}
+
+.eco-calendar {
+	color: #153056;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 65px;
+}
+
+.comment-wrapper {
+	width: 1080px;
+	height: 555px;
+	background-color: #ededee;
+	margin: auto;
+    padding: 1px;
+    display: block;
+    text-align: center;
+}
+
+.foursquare {
+    width: 800px;
+    margin: 0 150px;
+    font-size: 12px;
+}
+
+#topleft {
+        background: white;
+        width: 175px;
+        height: 275px;
+        position: relative;
+        margin: 10px;
+        display: block;
+        float: left;
+    }
+
+#topright {
+        background: white;
+        width: 175px;
+        height: 275px;
+        margin: 10px;
+        display: block;
+        float: left; 
+    }
+
+#bottomleft {
+        background: white;
+        width: 175px;
+        height: 275px;
+        margin: 10px;
+        display: block;
+        float: left;
+}
+
+#bottomright {
+        background: white;
+        width: 170px;
+        height: 275px;
+        margin: 10px;
+        display: block;
+        float: left;
+    }
+
+.day-comment {
+	color: white;
+   	width: 275px;
+   	height: 70px;
+   	float: left;
+   	text-align: center;
+   	background: #153056;
+   	margin-top: 40px;
+}
+
+.daily-commentary {
+	color: white;
+	width: 275px;
+  	height: 70px;
+	background-color:#b7b7b7; 
+	text-align: center;
+	float: right;
+	margin-top: 40px;
+}
+
+select#birthyear{
+	background-color: white;
+	color: black;
+}
+
+#birthyear{
+	float: right;
+	margin-right: 200px;
+}
+
+.comment-header {
+	width: 580px;
+	height: 150px;
+	margin-left: 250px;
+
+}
+
+.squares {
+	height: 325px;
+	width: 1080px;
+	position: relative;
+}
+
+.year {
+	width: 1080px;
+	height: 35px;
+	font-size: 16px;
+	float: left;
+	margin-top:-23px;
+}
+
+.dropdown-year{
+	float: right;
+}
+
+.comments-page1 {
+	list-style: none;
+	display: inline-block;
+	background-color: #f9f9f9;
+	height: 25px;
+	width: 30px;
+	padding-top: 5px;
+	font-size: 14px;
+	color: black;
+	border: 1px solid black;
+
+}
+.comments-page1 a:visited {
+	color:black;
+}
+
+.comments-page2{
+	list-style: none;
+	display: inline-block;
+	background-color: #f9f9f9;
+	height: 25px;
+	width: 60px;
+	padding-top: 5px;
+	font-size: 14px;
+	color: black;
+	border: 1px solid black;
+
+}
+
+.stockmarket {
+color: #153056;
+}
+
+.stockmarket1 {
+color: gray;
+padding: 25px 5px 0px 5px;
+font-size: 10px;
+}
+
+.readmore {
+background-color: #153056;
+height: 20px;
+width: 100px;
+color: white;
+margin: 13px 0px 0px 10px; 
+}
+
+.squares a:visited {
+color: white;
+
+}
+
+.atm {
+color: navy;
+
+}
+
+.facebook-box {
+height: 53px;
+color: navy;
+}
+
+.infoys{
+height: 52px;
+color: navy;
+}
+
+.atm1 {
+color: gray;
+padding: 42px 5px 0px 5px;
+font-size: 10px;
+}
+
+.facebook-box1 {
+color: gray;
+padding: 7px 5px 0px 5px;
+font-size: 10px;
+}
+
+.infoys1{
+color: gray;
+padding: 9px 5px 0px 5px;
+font-size: 10px;
+}
+
+.money {
+	background-color: black;
+	height: 100px;
+}
+
+select#currencies, #stocks, #indices, #commodities { 
+	width: 255px;
+	padding-top: 5px 0px;
+}
+
+
+.asset-header {
+	text-align: center;
+	font-size: 25px;
+}
+
+
+#pivot-tab {
+	background-color: #153056;
+	height: 60px;
+	width: 290px;
+	float: left;
+	left: 100px;
+	margin-left:190px;
+	margin-right: 7px; 
+	color: white;
+	text-align: center;
+	font-size: 17px;
+}
+
+
+#fib-calc-tab {
+	background-color: #b7b7b7;
+	height: 60px;
+	width: 290px;
+	float: left;
+	color: white;
+	text-align: center;
+	font-size: 17px;
+}
+
+.calc-form {
+	height: 20px;
+	margin-top: 20px;
+	background-color: white;
+	border: 1px solid black;
+	margin-left: 110px;
+}
+
+.input-formats-checks {
+	display: inline;
+}
+
+.checkbox-inline {
+	margin-left: 60px;
+}
+
+.checkbox-inline1 {
+	margin-left: 35px;
+
+}
+
+#calculate {
+	float: right;
+	margin: 30px 12px 0px 0px;
+	background-color: #1d4072;
+	color: white;
+	width: 200px;
+	border-bottom: 5px solid black;
+	height: 60px;
+	font-size: 20px;
+}
+
+.input-formats {
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 40px;
+	margin-top: 95px;
+}
+
+#form-group {
+	margin-top: 20px;
+	background-color: white;
+    border: 1px solid black;
+}
+
+#calc {
+	border: 1px solid black;
+	height: 280px;
+	width: 800px;	
+	margin: auto;
+	clear: both;
+	margin-bottom: 20px;
+}
+
+.form-group {
+	float: left;
+	margin-left: 100px;
+}
+
+
+.calc-form2 {
+	background-color: white;
+	border: 1px solid black;
+	float: left;
+	margin-top: 37px;
+}
+
+.decimal {
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#news-feed {
+	height: 400px;
+	width: 700px;	
+	margin: auto;
+	clear: both;
+}
+
+.news {
+	text-align: center;
+	font-size: 33px;
+}
+
+.news1 {
+	font-size: 12px; 
+	height: 100px;
+	width: 200px;
+	float: left;
+	margin-right: 55px;
+}
+
+.news2 {
+	font-size: 12px; 
+	height: 100px;
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+}
+
+.news3 {
+	font-size: 12px; 
+	height: 100px;
+	width: 200px;
+	float: right;
+}
+
+.news4 {
+	font-size: 12px; 
+	height: 100px;
+	width: 200px;
+	float: left;
+	margin-right: 55px;
+}
+
+.news5 {
+	font-size: 12px; 
+	height: 100px;
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+}
+
+.news6 {
+	font-size: 12px; 
+	height: 100px;
+	width: 200px;
+	float: right;
+}
+
+.story1, .story2, .story3, .story4, .story5 .story6{
+color: #153056
+}
+
+.author1, .author2, .author3, .author4, .author5, .author6  {
+color: #b7b7b7;
+}
+
+.readmore-news a:visited {
+	color: orange;
+	text-decoration: none;
+}
+
+.footer-email {
+	height: 90px;
+    width: 955px;
+    background-color: #0a9df1;
+    margin: auto;
+    color: white;
+    padding-left: 125px;
+
+}
+
+.footer-email input {
+	color: black;
+	float: right;
+	background-color: #ffffff;
+}
+
+.subscribe-email {
+   font-size: 25px;
+    display: block;
+    -webkit-margin-before: .5em;
+    -webkit-margin-after: .5em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    padding-top: 10px;
+}
+
+.email-info{
+   font-size: 15px;
+    display: block;
+    -webkit-margin-before: .5em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: lighter;
+}
+
+.footer-email input.subscribe {
+	background-color: #1d4072;
+	float: right;
+	color: white;
+	border-bottom: 5px black solid;
+	width: 150px;
+	height: 50px;
+
+}
+
+.sub-email {
+	height: 50px;
+	margin-top: 20px;
+}
+
+.footer {
+	height: 700px;
+	width: 1080px;
+	margin: auto;
+	background-color: #1d4072;
+}
+
+.company-dropdown {
+	float: left;
+	list-style-type:none;
+	margin-left: 90px;
+}
+
+.contact-dropdown {
+	float: left;
+	list-style-type:none;
+	margin-left: 40px;
+}
+
+.social-dropdown {
+	float: left;
+	list-style-type:none;
+	text-align: center;
+	margin-left: 375px;
+}
+
+.policies-dropdown {
+	float: left;
+	list-style-type:none;
+	margin-left: 40px;
+}
+
+.trading-dropdown {
+	float: left;
+	list-style-type:none;
+	margin-left: 50px;
+}
+
+
+
+ul.footer-news {
+	float: right;
+	list-style-type: none;
+	margin-right: 50px;
+	margin-top: 0px;
+}
+
+#subscribe {
+	float: right;
+	margin: 20px 65px 0px 0px;
+	background-color: #1d4072;
+	color: white;
+	width: 150px;
+	border-bottom: 5px solid black;
+	height: 50px;
+	font-size: 20px;
+}
+
+footer ul li a {
+	color: white;
+	font-size: 12px;
+	margin-left: 5px;
+}
+
+footer ul {
+	color: #0a9df1;
+}
+
+.readmore-news-footer a {
+	color:#0a9df1;
+}
+
+.footer-copyright {
+	text-align: center;
+	font-size: 12px;
+	color: white;
+}
+
+.footer-info {
+	text-align: center;
+	font-size: 9px;
+	color: white;
+	margin: 10px 100px;
+}
+
+.footer-img {
+	margin-left: 370px;
+}
